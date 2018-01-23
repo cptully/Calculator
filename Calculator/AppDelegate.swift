@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Clculator
+//  Calculator
 //
 //  Created by Chris Tully on 1/20/18.
 //  Copyright © 2018 Chris Tully. All rights reserved.
